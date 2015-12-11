@@ -65,5 +65,16 @@ img {
 }
 
 table {
-  
+  width: 700px;
+  background-color: #e96565;
+  position: relative;
+  margin: 0px, 0px, 0px, 100px;
+  border: 1px #ca8484 ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #ca8484;
+
+}
+
+th, td {
+  /*padding: 5px, 5px, 5px, 5px;*/
 }
